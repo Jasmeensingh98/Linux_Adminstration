@@ -6,3 +6,5 @@ Step1:- Creating Multiple Files: The touch command with brace expansion is used 
 Step2:- Creating Multiple Directories: The mkdir command is used to create multiple directories in one go.
 
 Step3:- Verifying Created Files and Directories: The ls command is used to list the created files and directories.
+
+![lab1](https://github.com/user-attachments/assets/82dd357e-bac1-4eca-8a5b-62f635c03e71)
